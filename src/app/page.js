@@ -48,9 +48,6 @@ export default function Home() {
             <a href="https://www.instagram.com/trav.keefe/">
               <FaInstagram />
             </a>
-            <a href="https://twitter.com/FinTechTrav">
-              <FaTwitter />
-            </a>
             <a href="https://github.com/tkeefe">
               <FaGithub />
             </a>
