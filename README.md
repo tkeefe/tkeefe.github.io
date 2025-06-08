@@ -1,34 +1,64 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# tkeefe.github.io
+
+Welcome to the personal website of Travis Keefe!
+
+## Overview
+
+This is a portfolio and blog site built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/). Here, you'll find information about Travis Keefe, including his background as a software engineer, runner, and finance enthusiast, as well as links to his social profiles and projects.
+
+## Features
+
+- **Responsive Design:** Mobile-friendly and accessible on all devices.
+- **Modern Tech Stack:** Built with Next.js, React, and Tailwind CSS.
+- **Social Links:** Quick access to Travis's GitHub, LinkedIn, Twitter, Strava, Instagram, and more.
+- **Portfolio & Blog:** Showcases projects, experience, and personal interests.
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- [Node.js](https://nodejs.org/) (v16 or higher recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Installation
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/tkeefe/tkeefe.github.io.git
+   cd tkeefe.github.io
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+2. **Install dependencies:**
+   ```sh
+   npm install
+   # or
+   yarn install
+   ```
 
-## Learn More
+3. **Run the development server:**
+   ```sh
+   npm run dev
+   # or
+   yarn dev
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the site.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Project Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- `/src/app/` — Main application code
+- `/public/` — Static assets (images, favicon, etc.)
+- `/components/` — Reusable React components
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This site can be easily deployed to [Vercel](https://vercel.com/) or any platform that supports Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/travis-keefe-969901132/)
+- [GitHub](https://github.com/tkeefe)
