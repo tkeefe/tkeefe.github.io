@@ -51,7 +51,7 @@ export default function Home() {
             <a href="https://github.com/tkeefe">
               <FaGithub />
             </a>
-            <a href="https://www.linkedin.com/in/travis-keefe-969901132/">
+            <a href="https://www.linkedin.com/in/travis-keefe-36b5353aa/">
               <FaLinkedin />
             </a>
             <a href="https://www.strava.com/athletes/15260121">
